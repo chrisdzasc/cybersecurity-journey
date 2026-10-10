@@ -1,6 +1,6 @@
 # Cybersecurity Journey
 
-My learning path into cybersecurity, focused on **security operations center (SOC)** and **threat detection**.
+My learning path into cybersecurity, focused on **security operations (SOC)** and **threat detection**.
 This repository documents what I learn: course summaries, hands-on labs and security projects.
 
 ## ✅ Completed
