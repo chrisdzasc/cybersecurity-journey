@@ -5,9 +5,9 @@ This repository documents what I learn: course summaries, hands-on labs and secu
 
 ## ✅ Completed
 
-| Course | Provider | Credential |
-| --- | --- | --- |
-| Introduction to Cybersecurity | Cisco Networking Academy | [Badge](https://www.credly.com/badges/32e58c8b-b2ec-40a4-b2db-df0103ec283d/public_url) |
+| Course | Provider | Summary | Credential |
+| --- | --- | --- | --- |
+| Introduction to Cybersecurity | Cisco Networking Academy | [Notes](courses/cisco-intro-to-cybersecurity.md) | [Badge](https://www.credly.com/badges/32e58c8b-b2ec-40a4-b2db-df0103ec283d/public_url) |
 
 ## 📚 In Progress
 
